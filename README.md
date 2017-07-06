@@ -108,3 +108,6 @@ http://www.cnblogs.com/LGMing/p/4431406.html
 
 +5 buttom拉到componentTree
 右鍵generate oncreate
+
+手動加xml內容
+然後加上new run configuration
