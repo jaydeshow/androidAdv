@@ -102,3 +102,7 @@ Total time: 9.157 secs
 抓別人的怎麼用 解開目錄 D:\androidadv20170706\importProj\
 file open 直接打開等他gradle完就可以run了
 
+改buttom大小寫
+http://www.cnblogs.com/LGMing/p/4431406.html
+http://www.cnblogs.com/LGMing/p/4431406.html
+
