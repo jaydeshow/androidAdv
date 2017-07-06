@@ -70,3 +70,16 @@ https://stackoverflow.com/questions/20252180/search-all-the-occurrences-of-a-str
 file->project structure 改變JDK location cmd查java home(set JAVA) C:\Program Files\Java\jdk1.8.0_73
 改完會看到gradle又重新build
 把 setting的reopen關閉
+
+editor->general->show quick doc 2500
+editor tab->ark modified tabs with asterisk(修改過的用星號標示)
+
+AndroidManifest.xml是最重要的(可以看merged哪些是project的)
+build.gradle(Module:app)則是動態的去設定  minSdkVersion 19
+
+solver for contraintLayout
++ToggleButtom 不管怎麼移都是畫面左上角
+(這版本要滑鼠放上去一陣子才能填textOff)
+因為你改變的只是editor layout(tools:layout_editor_absoluteX="16dp")
+
+根neighbor helloworld 產生關聯
