@@ -84,3 +84,21 @@ solver for contraintLayout
 
 根neighbor helloworld 產生關聯
 根 margin 產生關聯
+
+alt-enter code complete產生  call back listener
+狀態列開關
+
+參考build.gradle(Project裡面的task功能)
+D:\androidadv20170706\androidadv\Fragement1>gradlew clean
+Parallel execution is an incubating feature.
+Incremental java compilation is an incubating feature.
+:app:clean
+:clean
+
+BUILD SUCCESSFUL
+
+Total time: 9.157 secs
+清完再壓縮給別人
+抓別人的怎麼用 解開目錄 D:\androidadv20170706\importProj\
+file open 直接打開等他gradle完就可以run了
+
