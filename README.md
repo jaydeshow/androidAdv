@@ -111,3 +111,7 @@ http://www.cnblogs.com/LGMing/p/4431406.html
 
 手動加xml內容
 然後加上new run configuration
+
+Chi-Lun Lo, Chi-Hua Chen*, Hsin-Han Shie, Ta-Sheng Kuan, Kuen-Rong Lo, “Fuel Consumption Estimation System and Method with Lower Cost,” Proceedings of the 24th ITS World Congress, Montréal, Québec, Canada, October 29th-November 2nd, 2017. 
+
+羅啟倫、陳志華*、官大勝、羅坤榮，“一個低成本的油耗估計系統與方法”，2017年國際資訊管理學術研討會(The 28th International Conference on Information Management, ICIM 2017)，國立政治大學，台北，台灣，民國106年05月13日。
