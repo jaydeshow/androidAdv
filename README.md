@@ -103,6 +103,8 @@ Total time: 9.157 secs
 file open 直接打開等他gradle完就可以run了
 
 改buttom大小寫
-http://www.cnblogs.com/LGMing/p/4431406.html
+android:textAllCaps="false"
 http://www.cnblogs.com/LGMing/p/4431406.html
 
++5 buttom拉到componentTree
+右鍵generate oncreate
